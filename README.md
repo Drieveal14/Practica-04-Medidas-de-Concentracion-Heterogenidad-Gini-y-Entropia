@@ -1,6 +1,8 @@
 <div style="text-align: left;">
   <img width="200" src="https://www.fciencias.unam.mx/sites/default/files/logoFC_2.png" alt="Logo FC">
 </div>
+
+
 # Práctica 4. Medidas de Concentración, Heterogeneidad, Gini y Entropía
 ## ENDIREH 2021: Violencia contra las Mujeres
 
