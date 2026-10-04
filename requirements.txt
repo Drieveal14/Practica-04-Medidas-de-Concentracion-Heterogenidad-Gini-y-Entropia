@@ -2,8 +2,10 @@ polars==1.44.2
 pyarrow==25.0.1
 pandas==3.0.6
 numpy==2.5.3
+scipy==1.18.1
 matplotlib==3.11.2
 seaborn==0.13.2
 scikit-learn==1.9.1
 mlxtend==0.25.0
 jupyter==1.1.1
+ipykernel==7.3.0
